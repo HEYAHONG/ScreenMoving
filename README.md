@@ -2,7 +2,7 @@
 ![结果](result/result.gif)  
 编译命令（需要先安装好opencv） ：  
 mkdir build    
-cd build
+cd build  
 cmake ../   
 make   
 
